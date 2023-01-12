@@ -1,0 +1,8 @@
+Báo cáo xuất kho tại chi nhánh ${companyName}<br>
+Người xuất: ${employeeExport}<br>
+Ngày xuất: ${dateExport}<br>
+Mã phiếu xuất: ${codeExport} <br>
+Chi nhánh xuất tới: ${companyNameTo} <br>
+Tình trạng  : ${status} <br>
+
+-----------Hệ Thống Quản Lý Kho SmartShop----------
